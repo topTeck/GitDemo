@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>PageObject_Git</name>
+=======
+	<name>PageObject_GetTest</name>
+>>>>>>> 43e57e2c3868233fd95c6cfdc07cfb1d24cf57e9
 	<comment></comment>
 	<projects>
 	</projects>

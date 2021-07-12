@@ -21,9 +21,15 @@ public class LoginTest {
 		cap.createAccount("Raman");
 		
 		//driver.manage.window.maximze()
+<<<<<<< HEAD
 
 		//added comment
 		System.out.println("asfasf");
+=======
+		
+		//addded some comment
+		
+>>>>>>> 43e57e2c3868233fd95c6cfdc07cfb1d24cf57e9
 		
 	}
 
